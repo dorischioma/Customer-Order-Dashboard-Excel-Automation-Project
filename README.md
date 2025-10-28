@@ -6,7 +6,7 @@
 To streamline client relationship management and improve sales follow-up efficiency, the company needed a centralized view of customer order history and engagement patterns.
 
 This **Excel-based Customer Order Dashboard** enables the sales and operations teams to quickly access key customer details such as contact information, location, total number of orders, average freight cost, and last order date.  
-By leveraging **Excel formulas, advanced filters, and VBA automation**, the tool provides a real-time, interactive experience for customer insights — all within a single workbook.
+By leveraging **Excel formulas, advanced filters, and VBA automation**, the tool provides a real-time, interactive experience for customer insights, all within a single workbook.
 
 ---
 
@@ -51,11 +51,7 @@ The dashboard summarizes data with neatly formatted sections for:
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview  
 
-📸 **Screenshot of the Excel Dashboard:**  
-*(Replace the filename with your actual image name)*  
-
-```md
-![Customer Order Dashboard](./your-dashboard-image.png)
+![Customer Order Dashboard](https://github.com/dorischioma/Customer-Order-Dashboard-Excel-Automation-Project/blob/main/Customer%2BOrders.img.png)
 
